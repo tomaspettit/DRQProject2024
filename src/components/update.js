@@ -85,7 +85,7 @@ const Update = () => {
               src="/image/home.png"
               width="30" height="30"
               />' </p>
-            <h3 id="h3Style">Please update your gaming data</h3>
+            <h3 id="h3EditStyle">Please update your gaming data</h3>
             <form onSubmit={handleSubmit}>
                 <div className="form-group">
                     <label>Edit Gaming Title: </label>

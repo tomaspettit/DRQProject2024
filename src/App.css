@@ -29,9 +29,9 @@ p{
   font-family: 'Times New Roman', Times, serif;
 }
 
-/* Set color to rgb(191, 205, 0) on edit.js */
+/* Set color to rgb(141, 151, 1) on edit.js */
 #h3EditStyle{
-  color:rgb(191, 205, 0);
+  color:rgb(141, 151, 1);
 }
 
 /* Set color to rgb(0, 126, 205) on create.js */
