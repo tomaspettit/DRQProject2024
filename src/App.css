@@ -1,38 +1,69 @@
-.App {
-  text-align: center;
+/* App.css */
+/* Begin of CSS */
+
+/* Set label font-weight to bold on create.js & edit.js */
+label{
+  font-weight: bold; /* Set text label to bold */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Set input button background-color to rgb(0, 205, 100) on create.js & edit.js */
+input{
+  background-color: rgb(0, 205, 100);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Set font-size to 40px & color rgb(0, 205, 100) to on content.js */
+h1{
+  font-size: 40px;
+  color: rgb(0, 205, 100);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* Set font-size to 1.8em, & color to rgba(93, 129, 237, 0.8) on clock.js */
+#clockStyle{ 
+  font-size: 1.8em;
+  color:rgba(93, 129, 237, 0.8);
 }
 
-.App-link {
-  color: #61dafb;
+/* Set font-size to 26px on content.js, read.js, edit.js & create.js */
+p{
+  font-size: 26px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Set color to rgb(191, 205, 0) on edit.js */
+#h3EditStyle{
+  color:rgb(191, 205, 0);
 }
+
+/* Set color to rgb(0, 126, 205) on create.js */
+#h3CreateStyle{
+  color:rgb(0, 126, 205);
+}
+
+/* Set color to rgba(227, 130, 56, 0.721) on read.js */
+#h3ReadStyle{
+  color:rgba(227, 130, 56, 0.721);
+}
+
+/* Set margin-left to 250px on content.js */
+div.appStyle{
+  margin-left: 250px;
+}
+
+/* Set background-color to rgb(102, 211, 151) on gamingItem.js */
+#cardStyle{
+  background-color: rgb(102, 211, 151);
+}
+
+/* Set background-color to rgba(96, 235, 248, 0.9) the changes of the body part */
+body{
+  background-color: rgba(96, 235, 248, 0.9);
+}
+
+/* Set font-size to 24px, font-family to Times New Roman', Times, serif & font-style to italic on content.js */
+ol{
+  font-size: 24px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+/* End of CSS */
