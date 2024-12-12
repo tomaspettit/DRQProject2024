@@ -15,7 +15,7 @@ const Content = () => {
   return (
     <div className="appStyle">
       <Clock/>
-      <h1>Welcome to Online Gaming Shop (Admin)</h1>
+      <h1>Welcome to Online Gaming Shop</h1>
       <p>When your an Admin, you can create, read, update or delete gaming items.</p>
       <p>For lots of examples that you can choose are: </p>
         <ol>
