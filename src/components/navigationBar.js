@@ -16,7 +16,7 @@ const NavigationBar = () => {
   return (
         <Navbar bg="success" data-bs-theme="dark">
           <Container>
-            <Navbar.Brand><i>Gaming Navigation</i></Navbar.Brand>
+            <Navbar.Brand></Navbar.Brand>
             <Nav className="me-auto">
               <Nav.Link href="/"><img
               src="/image/home.png"
