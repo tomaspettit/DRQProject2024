@@ -1,10 +1,10 @@
 // read.js - Displaying Gamings & Clock component
 
 //IMPORTS
-import Gamings from "./gamings";
+import Gamings from "../components/gamings";
 import { useEffect, useState } from "react";
 import axios from "axios";
-import Clock from "./clock";
+import Clock from "../components/clock";
 
 // Function Read - useState, axios link, Clock & Gamings component
 const Read = () => {

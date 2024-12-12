@@ -3,10 +3,10 @@
 //IMPORTS
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import NavigationBar from './components/navigationBar';
-import Content from './components/content';
-import Read from './components/read';
-import Create from './components/create';
-import Update from './components/update';
+import Content from './pages/content';
+import Read from './pages/read';
+import Create from './pages/create';
+import Update from './pages/update';
 import "./App.css";
 
 // Function App - Displaying compenents - using client side routing handling paths

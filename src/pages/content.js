@@ -2,7 +2,7 @@
 
 //IMPORTS
 import React from 'react';
-import Clock from './clock';
+import Clock from "../components/clock";
 
 /* 
     Logo create is for going to create page ('/create') for create a new data

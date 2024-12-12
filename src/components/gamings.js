@@ -1,7 +1,7 @@
 // gamings.js - Displaying GamingItem component
 
 //IMPORTS
-import GamingItem from "./gamingItem";
+import GamingItem from "../components/gamingItem";
 
 
 // Function Gamings - GamingItem component
