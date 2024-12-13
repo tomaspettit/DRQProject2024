@@ -141,7 +141,3 @@ If you have any questions, email me to:
 
 ***
 [Back Up Top](https://github.com/tomaspettit/DRQProject2024/wiki/Home/_edit#online-gaming-shop-using-mern-stack)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
