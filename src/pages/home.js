@@ -9,8 +9,8 @@ import Clock from "../components/clock";
     Logo read is for going to read page ('/read') for reading all data for what I create
 */
 
-//Function Content - Clock component, Navigation Bar
-const Content = () => {
+//Function Home - Clock component, Navigation Bar
+const Home = () => {
 
   return (
     <div className="appStyle">
@@ -40,4 +40,4 @@ const Content = () => {
 }
 
 //Export to App.js
-export default Content;
+export default Home;
